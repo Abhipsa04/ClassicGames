@@ -1,7 +1,7 @@
 border-radius 100px or 50% makes the border circular
 -Extension emoji snippet download then :(chose an emoji by typing)
 >have to learn about css positioning
-```css:
+```css
     display:grid;
     width: 500px;
     grid-template-columns: repeat(3,1fr);
@@ -13,7 +13,7 @@ then the the imgs are centered in the column
 ***
 First we cash the dom elements naming convention using under score. we add all the functions in main function and and call the main function at last
 `Math.random()` in javascript give random values between 0 and 1
-```javascript:
+```javascript
    console.log(Math.floor(Math.random()*3));
     // random number between 0 to 3
     //Math.floor to get int value

@@ -5,6 +5,7 @@
 - Shows message of win, loss or draw
 - shows message of the moves of user and computer
 - button turns red when lost , green when win and grey when draw
+> increase the playback speed in demo video.
 
 
 https://user-images.githubusercontent.com/64295503/170826923-9af09c0a-7d72-41c6-ad3c-a75bacc7ba24.mp4
